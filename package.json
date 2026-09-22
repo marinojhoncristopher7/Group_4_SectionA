@@ -1,0 +1,26 @@
+{
+  "name": "group-4_section-a",
+  "version": "1.0.0",
+  "description": "sia, midterm",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinojhoncristopher7/Group_4_SectionA.git"
+  },
+  "keywords": [
+    "midterm"
+  ],
+  "author": "Marino, Macias, Malusay, Malunes, Labadia, Lumanog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinojhoncristopher7/Group_4_SectionA/issues"
+  },
+  "homepage": "https://github.com/marinojhoncristopher7/Group_4_SectionA#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
