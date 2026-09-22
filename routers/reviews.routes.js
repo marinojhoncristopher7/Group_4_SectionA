@@ -4,7 +4,8 @@ const router = express.Router();
 
 let reviews = [
     {id:1, name: "VERYYYY GOODDD",},
-    {id:2, name: "VERYYY BADDDD"}
+    {id:2, name: "VERYYY BADDDD"},
+    {id:3, name: "VERYYY NEUTRAL"}
 ];
 
 router.get('/', (req,res) => {
