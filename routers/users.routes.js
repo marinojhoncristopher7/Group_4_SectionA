@@ -5,14 +5,14 @@ const router = express.Route();
 let users = [
 	{
 	id:1,
-	name:"Juan",
+	name:"Mark",
 	roles:"admin"
 },
 
 {
 	
 	id:2,
-	name:"Maria",
+	name:"Malusay",
 	roles:"user" 
 }
 
