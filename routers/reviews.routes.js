@@ -3,8 +3,8 @@ const express = require ('express')
 const router = express.Router();
 
 let reviews = [
-    {id:1, name: "Good reviews",},
-    {id:2, name: "Bad reviews"}
+    {id:1, name: "VERYYYY GOODDD",},
+    {id:2, name: "VERYYY BADDDD"}
 ];
 
 router.get('/', (req,res) => {
