@@ -3,7 +3,7 @@ const router = express.Router();
 
 let categories = [
 {id:1, name: "Electronics"},
-{id:2, name: "Clothing"}
+{id:2, name: "Appliances"}
 ];
 
 //Get all categories (with query filter)
