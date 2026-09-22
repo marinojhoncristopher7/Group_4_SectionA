@@ -2,8 +2,8 @@ const express=require('express');
 const router=express.Router();
 
 let products = [
-{id : 1,name:"laptop",price: 50000, stock:10},
-{id : 2,name:"phone",price: 50000, stock:25}
+{id : 1,name:"laptoppppppppp",price: 50000, stock:10},
+{id : 2,name:"phoneeeeeeeeeeeeeeeeeeeeeeeeee",price: 50000, stock:25}
 ];
 
 //GET all products(with query filter)
